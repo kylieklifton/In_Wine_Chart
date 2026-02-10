@@ -1,7 +1,5 @@
 # In One Chart: U.S. Wine Market Decline
 
-## For Dhrumil
-
 **Start here:** `wine_analysis.ipynb` — this is the main analysis notebook
 
 **Data files:**
